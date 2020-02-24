@@ -1,0 +1,17 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+$heihslider: 100vh;
+
+.nav-link{
+    font-weight: bold;
+}
+.w-100{
+    height:$heihslider;
+}
+#nav{
+    background-color:white;
+    
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
